@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">final_project</string>
+
+    /** Create the list for the days of the week for the drop down menu**/
+    <string-array name="weekDays">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>
